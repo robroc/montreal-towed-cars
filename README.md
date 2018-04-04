@@ -4,7 +4,7 @@ These are the data files and code used to find cars that were towed outside snow
 
 [Read the story here.](http://cbc.ca/1.4603596)
 
-It contains a Jupyter notebook with the analysis code in Python 3.
+It contains a [Jupyter notebook](https://github.com/robroc/montreal-towed-cars/blob/master/Car%20towings.ipynb) with the analysis code in Python 3.
 
 If you want to do the analysis yourself you'll need the following Python libraries: pandas, numpy, geopandas, matplotlib
 
