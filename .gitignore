@@ -1,0 +1,12 @@
+geo/*
+img/*
+input/*
+output/*
+*.csv
+*.qgs*
+*.mxd
+.ipynb_checkpoints/Car towings-checkpoint.ipynb
+_DS_Store
+bad_tows.shp.CBCSRCC-8NA1EN8.5732.1856.sr.lock
+*.qgs
+towed_cars_mtl.qgs~
