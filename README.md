@@ -10,4 +10,4 @@ If you want to do the analysis yourself you'll need the following Python librari
 
 You'll also need to download some of the source files yourself. Links are in the Jupyter notebook.
 
-Archived Info-Neige schedules were graciously provided by Christophe Desprez of [InfoNeige.ca](http://infoneige.ca/), an alternative service to the official city app.
+Archived Info-Neige schedules were graciously provided by Christophe Deprez of [InfoNeige.ca](http://infoneige.ca/), an alternative service to the official city app.
